@@ -48,14 +48,7 @@ Official GitHub Copilot Docs - https://docs.github.com/en/copilot/how-tos/use-co
 Bringing Anthropic Skills to GitHub Copilot https://tiberriver256.github.io/ai%20and%20technology/skills-catalog-part-1-indexing-ai-context/
 
 ## Acknowledgements
-Shoutout to Ahmad Khaleel's gitdiagram project on Github https://github.com/ahmedkhaleel2004
+Shoutout to [Ahmad Khaleel](https://github.com/ahmedkhaleel2004)'s [gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) project on Github 
 
-https://github.com/ahmedkhaleel2004/gitdiagram/tree/main
 
-# Workflow 
-cd Users/shiv/garage/proj/shiv/ghcp-custom-agents
 
-gh repo create ghcp-custom-agents --public --source=. --remote=origin --push
-
-git remote -v
-git status
